@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-label="Divisor com pudim e patinhas">
+  <defs>
+    <g id="pata" fill="#C99A6B">
+      <ellipse cx="0" cy="4" rx="6" ry="5"/>
+      <circle cx="-6" cy="-3.5" r="2.4"/><circle cx="-2" cy="-7" r="2.4"/>
+      <circle cx="2.5" cy="-7" r="2.4"/><circle cx="6.5" cy="-3.5" r="2.4"/>
+    </g>
+  </defs>
+  <path d="M20 26 H520 M680 26 H1180" stroke="#E8C97A" stroke-width="3" stroke-dasharray="1 10" stroke-linecap="round"/>
+  <use href="#pata" transform="translate(548 26) rotate(-12)"/>
+  <use href="#pata" transform="translate(652 26) rotate(12)"/>
+  <g transform="translate(600 24) scale(.6)">
+    <ellipse cx="0" cy="22" rx="34" ry="7" fill="#FFFFFF" stroke="#5A3328" stroke-width="3"/>
+    <path d="M-24 20 L-18 -10 Q0 -16 18 -10 L24 20 Z" fill="#FCE38A" stroke="#5A3328" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M-18 -10 Q0 -16 18 -10 L19.5 -2 Q12 6 6 -1 Q0 7 -6 -1 Q-12 6 -19.5 -2 Z" fill="#B5713D" stroke="#5A3328" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="0" cy="-17" r="5" fill="#E2483D" stroke="#5A3328" stroke-width="2.5"/>
+  </g>
+</svg>
