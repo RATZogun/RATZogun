@@ -8,6 +8,8 @@
 <a href="https://ratzogun.github.io/Personal_Page/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ratzogun.github.io-8B4A2B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
 <a href="mailto:gdsjunior8@gmail.com"><img src="https://img.shields.io/badge/E--mail-gdsjunior8@gmail.com-8B4A2B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <br />
+<a href='https://ko-fi.com/E4K32A667Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<br />
 <img src="https://komarev.com/ghpvc/?username=RATZogun&label=visitas%20no%20perfil&color=b5713d&style=flat-square" alt="Visitas no perfil" />
 
 </div>
@@ -136,7 +138,7 @@ transformar regras complexas em código confiável e fácil de manter.
 
 <img src="assets/sanrio-amigos.png" alt="Pompompurin e a turma da Sanrio" width="300" />
 
-<sub><img src="assets/purin-rosto.png" alt="" width="18" align="center" /> &nbsp;Feito com pudim 🍮, caramelo 🍯 e muitas patinhas 🐾</sub>
+<sub><img src="assets/purin-rosto.png" alt="" width="18" align="center" /> &nbsp;Feito com pudim 🍮 e caramelo 🍯 </sub>
 <br />
 <sub>Ilustrações do Pompompurin e da turma: <a href="https://www.vecteezy.com">Vecteezy.com</a>. Personagens © Sanrio.</sub>
 
